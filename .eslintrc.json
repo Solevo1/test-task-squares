@@ -36,6 +36,7 @@
       }
     ],
     "no-unused-vars": "warn",
+    "linebreak-style": "off",
     "quotes": [
       "error",
       "single"
