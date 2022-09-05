@@ -1,0 +1,26 @@
+.SelectMode {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.SelectMode-select {
+  width: 150px;
+  height: 40px;
+  background-color:azure;
+}
+
+.SelectMode-button {
+  width: 100px;
+  height: 40px;
+  color: white;
+  background-color: blue;
+  cursor: pointer;
+}
+
+.SelectMode-button:disabled {
+  background-color: gray;
+  cursor: default;
+}

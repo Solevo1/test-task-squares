@@ -1,0 +1,19 @@
+.HoveredSquares {
+  width: 100%;
+}
+
+.HoveredSquares-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.HoveredSquares-item {
+  border: 1px solid black;
+  padding: 2px;
+  background-color: aqua;
+}

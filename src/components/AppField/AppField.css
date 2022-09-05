@@ -1,0 +1,9 @@
+.AppField {
+  display: grid;
+  height: fit-content;
+}
+
+.AppField-cell {
+  border: 1px solid black;
+  cursor: pointer;
+}
